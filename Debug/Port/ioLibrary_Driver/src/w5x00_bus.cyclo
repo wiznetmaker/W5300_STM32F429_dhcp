@@ -1,0 +1,7 @@
+C:/Users/Grace/STM32CubeIDE/workspace_1.15.1/NUCLEO-F429ZI/Port/ioLibrary_Driver/src/w5x00_bus.c:42:20:wizchip_select	1
+C:/Users/Grace/STM32CubeIDE/workspace_1.15.1/NUCLEO-F429ZI/Port/ioLibrary_Driver/src/w5x00_bus.c:47:20:wizchip_deselect	1
+C:/Users/Grace/STM32CubeIDE/workspace_1.15.1/NUCLEO-F429ZI/Port/ioLibrary_Driver/src/w5x00_bus.c:52:24:wizchip_read	1
+C:/Users/Grace/STM32CubeIDE/workspace_1.15.1/NUCLEO-F429ZI/Port/ioLibrary_Driver/src/w5x00_bus.c:66:20:wizchip_write	1
+C:/Users/Grace/STM32CubeIDE/workspace_1.15.1/NUCLEO-F429ZI/Port/ioLibrary_Driver/src/w5x00_bus.c:79:6:wizchip_initialize	2
+C:/Users/Grace/STM32CubeIDE/workspace_1.15.1/NUCLEO-F429ZI/Port/ioLibrary_Driver/src/w5x00_bus.c:122:6:wizchip_reset	1
+C:/Users/Grace/STM32CubeIDE/workspace_1.15.1/NUCLEO-F429ZI/Port/ioLibrary_Driver/src/w5x00_bus.c:131:6:wizchip_check	1
